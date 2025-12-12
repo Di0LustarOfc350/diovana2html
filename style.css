@@ -27,3 +27,8 @@ max-width: 90%;
 img {
 max-width: 90%;
 }
+img {
+break-before:<img src="https://i.pinimg.com/originals/c7/b1/c4/c7b1c42f0749b85985f493ec67e99d87.jpg"
+                alt="">;
+max-width: 50%;
+}
